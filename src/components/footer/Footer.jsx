@@ -6,14 +6,12 @@ import { FaGithub } from "react-icons/fa";
 const Footer = () => {
   return (
     <footer>
-      {/* eslint-disable-next-line */}
-      <a href="#" className="footer__logo">
+      <a href="#header" className="footer__logo">
         Murugan Venkatesan
       </a>
       <ul className="permalinks">
         <li>
-          {/* eslint-disable-next-line */}
-          <a href="#">Home</a>
+          <a href="#header">Home</a>
         </li>
         <li>
           <a href="#about">About</a>

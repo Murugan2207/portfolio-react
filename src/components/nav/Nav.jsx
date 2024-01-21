@@ -1,20 +1,17 @@
-import React from "react";
 import "./nav.css";
-import { AiOutlineHome } from "react-icons/ai";
-import { AiOutlineUser } from "react-icons/ai";
-import { BiBook } from "react-icons/bi";
+import { AiOutlineHome ,AiOutlineUser} from "react-icons/ai";
+import { BiBook,BiMessageSquareDetail } from "react-icons/bi";
 import { RiServiceLine } from "react-icons/ri";
-import { BiMessageSquareDetail } from "react-icons/bi";
-import { useState } from "react";
+import React,{ useState } from "react";
 
 const Nav = () => {
-  const [activeNav, setActiveNav] = useState("#");
+  const [activeNav, setActiveNav] = useState("#header");
   return (
     <nav>
       <a
-        href="#"
-        onClick={() => setActiveNav("#")}
-        className={activeNav === "#" ? "active" : ""}
+        href="#header"
+        onClick={() => setActiveNav("#header")}
+        className={activeNav === "#header" ? "active" : ""}
       >
         <AiOutlineHome />
       </a>
