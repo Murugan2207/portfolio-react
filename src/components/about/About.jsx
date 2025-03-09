@@ -22,7 +22,7 @@ const About = () => {
               <FaAward className="about__icon" />
               <h5>Experience</h5>
               <small>
-                2+ years <br /> Developer Experience
+                3+ years <br /> Developer Experience
               </small>
             </article>
             <article className="about__card">
@@ -36,18 +36,18 @@ const About = () => {
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
               <small>
-                10+ Completed
+                15+ Completed
                 <br />
                 and Counting
               </small>
             </article>
           </div>
           <p>
-          👋Hello, Fam! I'm Murugan Venkatesan, a passionate and results-driven Fullstack Web professional with a proven track record of ReactJs Over the years, I've honed my expertise in ReactJs, delivering impactful results in oil and gas Industry.
+          👋Hello, Fam! I'm Murugan Venkatesan, a passionate and results-driven Fullstack Web professional with a proven track record of MERN stack Over the years, I've honed my expertise in ReactJs, delivering impactful results in oil and gas Industry.
           </p>
 
           <p>
-          🚀 Whether it's architecting responsive user interfaces, optimizing performance through efficient state management. I consistently strive for excellence in ReactJS development. One notable accomplishment includes spearheading the migration of a legacy application to React.
+          🚀 Whether it's architecting responsive user interfaces, optimizing performance through efficient state management. I consistently strive for excellence in MERN stack development. One notable accomplishment includes spearheading the migration of a legacy application to React.
           </p>
           <p>
           💬 Let's connect and dive into discussions about ReactJS, front-end development, or anything related to building exceptional user interfaces. I'm eager to explore opportunities to contribute my skills and passion for ReactJS in collaborative and forward-thinking projects

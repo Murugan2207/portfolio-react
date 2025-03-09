@@ -19,7 +19,7 @@ const data = [
     id: 5,
     image: IMG5,
     title: "React Portfolio",
-    github: "https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2",
+    github: "https://github.com/Murugan2207/my-portfolio",
     demo: "https://murugan2207-portfolio.netlify.app/",
   },
   {
